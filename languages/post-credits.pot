@@ -1,0 +1,152 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/post-credits\n"
+"POT-Creation-Date: 2009-05-27 07:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: postcredits.php:80
+msgid "Créditos del post"
+msgstr ""
+
+#: postcredits.php:86
+msgid "Opciones actualizadas"
+msgstr ""
+
+#: postcredits.php:96
+msgid "Formateo"
+msgstr ""
+
+#: postcredits.php:98
+msgid "Valores actuales"
+msgstr ""
+
+#: postcredits.php:101
+msgid "Justificación"
+msgstr ""
+
+#: postcredits.php:107
+msgid "Derecha"
+msgstr ""
+
+#: postcredits.php:107
+msgid "Izquierda"
+msgstr ""
+
+#: postcredits.php:107
+msgid "Centro"
+msgstr ""
+
+#: postcredits.php:130
+msgid "Tipo de letra"
+msgstr ""
+
+#: postcredits.php:135 postcredits.php:164
+msgid "Normal"
+msgstr ""
+
+#: postcredits.php:135
+msgid "Cursiva"
+msgstr ""
+
+#: postcredits.php:135
+msgid "Negrita"
+msgstr ""
+
+#: postcredits.php:159
+msgid "Efectos"
+msgstr ""
+
+#: postcredits.php:164
+msgid "Versalita"
+msgstr ""
+
+#: postcredits.php:188
+msgid "Tamaño"
+msgstr ""
+
+#: postcredits.php:207
+msgid "Color"
+msgstr ""
+
+#: postcredits.php:212
+msgid "Negro"
+msgstr ""
+
+#: postcredits.php:212
+msgid "Gris"
+msgstr ""
+
+#: postcredits.php:212
+msgid "Rojo oscuro"
+msgstr ""
+
+#: postcredits.php:212
+msgid "Naranja"
+msgstr ""
+
+#: postcredits.php:212
+msgid "Verde"
+msgstr ""
+
+#: postcredits.php:212
+msgid "Amarillo"
+msgstr ""
+
+#: postcredits.php:232
+msgid "Texto adicional"
+msgstr ""
+
+#: postcredits.php:242
+msgid "Parámetros"
+msgstr ""
+
+#: postcredits.php:250 postcredits.php:256
+msgid "Sí"
+msgstr ""
+
+#: postcredits.php:251 postcredits.php:257
+msgid "No"
+msgstr ""
+
+#: postcredits.php:261
+msgid "Derechos que se reservan"
+msgstr ""
+
+#: postcredits.php:275
+msgid "Visualizar en"
+msgstr ""
+
+#: postcredits.php:280
+msgid "Entradas"
+msgstr ""
+
+#: postcredits.php:280
+msgid "Páginas"
+msgstr ""
+
+#: postcredits.php:280
+msgid "Entradas y páginas"
+msgstr ""
+
+#: postcredits.php:280
+msgid "No visualizar"
+msgstr ""
+
+#: postcredits.php:307
+msgid "Actualizar opciones"
+msgstr ""
+
+#: postcredits.php:450
+msgid "Opciones"
+msgstr ""

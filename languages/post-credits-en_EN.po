@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Credits 1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/post-credits\n"
+"POT-Creation-Date: 2009-05-27 07:29+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Rodolfo Martínez <drimar@gmail.com>\n"
+"Language-Team: Rodolfo Martínez\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: postcredits.php:80
+msgid "Créditos del post"
+msgstr "Post Credits"
+
+#: postcredits.php:86
+msgid "Opciones actualizadas"
+msgstr "Settings Saved"
+
+#: postcredits.php:96
+msgid "Formateo"
+msgstr "Format"
+
+#: postcredits.php:98
+msgid "Valores actuales"
+msgstr "Present values"
+
+#: postcredits.php:101
+msgid "Justificación"
+msgstr "Alignment"
+
+#: postcredits.php:107
+msgid "Derecha"
+msgstr "Right"
+
+#: postcredits.php:107
+msgid "Izquierda"
+msgstr "Left"
+
+#: postcredits.php:107
+msgid "Centro"
+msgstr "Center"
+
+#: postcredits.php:130
+msgid "Tipo de letra"
+msgstr "Style"
+
+#: postcredits.php:135
+#: postcredits.php:164
+msgid "Normal"
+msgstr "Normal"
+
+#: postcredits.php:135
+msgid "Cursiva"
+msgstr "Italic"
+
+#: postcredits.php:135
+msgid "Negrita"
+msgstr "Bold"
+
+#: postcredits.php:159
+msgid "Efectos"
+msgstr "Effects"
+
+#: postcredits.php:164
+msgid "Versalita"
+msgstr "Small Caps"
+
+#: postcredits.php:188
+msgid "Tamaño"
+msgstr "Size"
+
+#: postcredits.php:207
+msgid "Color"
+msgstr "Colors"
+
+#: postcredits.php:212
+msgid "Negro"
+msgstr "Black"
+
+#: postcredits.php:212
+msgid "Gris"
+msgstr "Grey"
+
+#: postcredits.php:212
+msgid "Rojo oscuro"
+msgstr "Dark Red"
+
+#: postcredits.php:212
+msgid "Naranja"
+msgstr "Orange"
+
+#: postcredits.php:212
+msgid "Verde"
+msgstr "Green"
+
+#: postcredits.php:212
+msgid "Amarillo"
+msgstr "Yellow"
+
+#: postcredits.php:232
+msgid "Texto adicional"
+msgstr "Adtional Text"
+
+#: postcredits.php:242
+msgid "Parámetros"
+msgstr "Parameters"
+
+#: postcredits.php:250
+#: postcredits.php:256
+msgid "Sí"
+msgstr "Yes"
+
+#: postcredits.php:251
+#: postcredits.php:257
+msgid "No"
+msgstr "No"
+
+#: postcredits.php:261
+msgid "Derechos que se reservan"
+msgstr "Rights you reserve"
+
+#: postcredits.php:275
+msgid "Visualizar en"
+msgstr "View in"
+
+#: postcredits.php:280
+msgid "Entradas"
+msgstr "Posts"
+
+#: postcredits.php:280
+msgid "Páginas"
+msgstr "Pages"
+
+#: postcredits.php:280
+msgid "Entradas y páginas"
+msgstr "Posts and Pages"
+
+#: postcredits.php:280
+msgid "No visualizar"
+msgstr "Do not View"
+
+#: postcredits.php:307
+msgid "Actualizar opciones"
+msgstr "Save Settings"
+
+#: postcredits.php:450
+msgid "Opciones"
+msgstr "Settings"
+
